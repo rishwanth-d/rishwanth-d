@@ -1833,14 +1833,14 @@
   },
   {
    "date": "2026-11-24",
-   "count": 0,
-   "level": 0
+   "count": 1,
+   "level": 2
   }
  ],
  "stats": {
-  "total": 3,
-  "current_streak": 1,
-  "longest_streak": 1,
+  "total": 4,
+  "current_streak": 2,
+  "longest_streak": 2,
   "best_day": {
    "date": "2026-11-23",
    "count": 2
@@ -1858,7 +1858,7 @@
    "2026-08": 0,
    "2026-09": 0,
    "2026-10": 0,
-   "2026-11": 2
+   "2026-11": 3
   }
  }
 }
